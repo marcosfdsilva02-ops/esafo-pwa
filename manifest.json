@@ -1,9 +1,10 @@
 {
   "name": "e-SAFO+",
   "short_name": "e-SAFO+",
+  "description": "Sistema de requerimento de permutas, dispensas e afastamentos do 18° BPM",
   "display": "standalone",
   "orientation": "portrait",
-  "start_url": "/",
+  "start_url": "https://script.google.com/macros/s/AKfycbzrPxw92e_QRp57jLpvWN2RoJxcTqALgGa62JdiiGroUm2tHwUseJJRi9FysKYcSDTHqw/exec",
   "theme_color": "#1a56c4",
   "background_color": "#1351B4",
   "icons": [
